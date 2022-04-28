@@ -13,7 +13,7 @@
 ### I'm luvletter2333
 
 - A Computer Science Undergraduate Student
-- Hackintosh & Debian User
+- Debian User
 - Currently working on [NekoX](https://github.com/NekoX-Dev/NekoX) as a developer
 - Studying C/C++ & Rust
 - ACG Lover, KyoAni Fans
@@ -29,7 +29,6 @@
 -->
 ### About Me
 - [Personal Telegram Channel](https://t.me/Haruhi_Channel)
-- [Blog](https://blog.luvletter.me), still under construction
 - [PGP](https://keys.openpgp.org/vks/v1/by-fingerprint/02CD56552B217AD2DFE020DBBFD68B892BECC1D8) Fingerprint: 02CD 5655 2B21 7AD2 DFE0  20DB BFD6 8B89 2BEC C1D8
 
 
