@@ -21,7 +21,6 @@
 ### My Projects
 - [NekoX-Dev/NekoX](https://github.com/NekoX-Dev/NekoX) as a developer
 - [Live-SubTitle](https://github.com/luvletter2333/Live-SubTitle), a tiny software used to add subtitles in live production
-- [ItChat](https://github.com/luvletter2333/ItChat), a modification version of ItChat based on UOS
 <!--
 ### My Hackintosh Builds
 - [ASUS UX510UXK](https://github.com/luvletter2333/Asus-UX510UXK-Hackintosh)
